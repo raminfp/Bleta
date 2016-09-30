@@ -1,9 +1,12 @@
 package model
 
+import "github.com/jinzhu/gorm"
+
 type Users struct {
-	ID        uint32
-	FirstName string
-	LastName  string
+	gorm.Model
+	ID        uint `gorm:"primary_key"`
+	Firstname string
+	Lastname  string
 	Email     string
 	Password  string
 }
