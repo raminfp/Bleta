@@ -1,6 +1,6 @@
 # bleta web framework with [golang](https://golang.org)
 
-![test](http://sm.uploads.im/t/JyqRx.png)
+![test](https://lh3.ggpht.com/3fsHQm89JCb-Sl2gx--ejPdHoQO3kZQejKQKFAnNRQjW8r_WYFQAXBNv-WtRcFau-AM=h310)
 
 
 ### Feature Overview 
